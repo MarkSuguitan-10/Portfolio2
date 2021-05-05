@@ -762,7 +762,7 @@ input {
   overflow: hidden;
 }
 .hero--content__avatar .avatar--img {
-  background: url(/ProfilePicture.jpg);
+  background: url(/index_files/ProfilePicture.jpg);
   background-size: cover;
   height: 100%;
   width: 100%;
