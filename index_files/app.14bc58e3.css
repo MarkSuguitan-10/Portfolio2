@@ -762,7 +762,7 @@ input {
   overflow: hidden;
 }
 .hero--content__avatar .avatar--img {
-  background: url(/ProfilePicture.jpg);
+  background: url(ProfilePicture.jpg);
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -1229,7 +1229,7 @@ input {
   overflow: hidden;
 }
 .about--content__avatar .avatar--img {
-  background: url(/ProfilePicture.jpg);
+  background: url(ProfilePicture.jpg);
   background-size: cover;
   height: 100%;
   width: 100%;
